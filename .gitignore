@@ -3,3 +3,9 @@
 /Unity/Temp
 /Unity/Logs
 /Unity/Packages
+/Unity/.vs
+Unity/Assembly-CSharp-Editor.csproj
+Unity/Assembly-CSharp.csproj
+Unity/Unity.sln
+Unity/obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache
+/Unity/obj
